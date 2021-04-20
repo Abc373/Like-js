@@ -26,5 +26,6 @@ var Like = function(like_finger, like_number, on_color, leave_color) {
 let information = {
     "version": "v0.0.1",
     "copyright": "Base_man",
-    "How to use the method": "In 'like-1.js'"
+    "How to use the method": "In 'like-1.js'",
+    "What did I update": "Remove all IDs and colors to parameters you can pass"
 }
