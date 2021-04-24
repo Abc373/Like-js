@@ -25,5 +25,18 @@ var Like = function() {
 let information={
     "version":"v0.0.1",
     "copyright":"Base_man",
-    "How to use the method":"If you are not good at the IT,please read it:First invoke this function{like this:[function_name](parameter),function_name like:Object or you make the function's name.}.Second,Ginseng."
+    "How to invoke the function":{
+        "Example(HTML invoke)":{
+            "line1":"<!DOCTYPE html>",
+            "line2":"<html lang='en'>",
+            "line3":"<head>",
+            "line4":"   <meta charset='utf-8'>",
+            "line5":"   <meta name='author' content='Base_man'>",
+            "line6":"   <title>Invoke JavaScript function",
+            "line7":"</head>",
+            "line8":"<body style="background-image: url(&quot;https://i0.hdslb.com/bfs/live/d4fab7a666bc627cc2bcb4f00aa6d2a7958cee80.png@1365w.webp&quot;);">",
+            "line9":"   <script type='text/javascript' src='[driver]:[path]\Like-1.js'></script>",
+            "line10":"</body>"
+        }
+    }
 }
